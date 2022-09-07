@@ -1,7 +1,7 @@
 Bolukbasi, Tolga, Kai-Wei Chang, James Y Zou, Venkatesh Saligrama, and Adam T Kalai. 2016. “Man Is to Computer Programmer as Woman Is to Homemaker? Debiasing Word Embeddings,” 9. https://arxiv.org/abs/1607.06520.
 Caliskan, Aylin, Joanna J. Bryson, and Arvind Narayanan. 2017. “Semantics Derived Automatically from Language Corpora Contain Human-Like Biases.” Science 356 (6334): 183–86. https://doi.org/10.1126/science.aal4230.
 Egerod, Benjamin, and Robert Klemmensen. 2020. “Scaling Political Positions from Text: Assumptions, Methods and Pitfalls.” In, 498–521. 1 Oliver’s Yard, 55 City Road London EC1Y 1SP: SAGE Publications Ltd. https://doi.org/10.4135/9781526486387.n30.
- Katsarou, Styliani, Borja Rodríguez-Gálvez, and Jesse Shanahan. 2022. “AAAI Workshop on Artificial Intelligence with Biased or Scarce Data (AIBSD).” In, 3. MDPI. https://doi.org/10.3390/cmsf2022003003.
+Katsarou, Styliani, Borja Rodríguez-Gálvez, and Jesse Shanahan. 2022. “AAAI Workshop on Artificial Intelligence with Biased or Scarce Data (AIBSD).” In, 3. MDPI. https://doi.org/10.3390/cmsf2022003003.
 Kurita, Keita, Nidhi Vyas, Ayush Pareek, Alan W Black, and Yulia Tsvetkov. 2019. “Proceedings of the First Workshop on Gender Bias in Natural Language Processing.” In, 166–72. Florence, Italy: Association for Computational Linguistics. https://doi.org/10.18653/v1/W19-3823.
 Lauderdale, Benjamin E., and Alexander Herzog. 2016. “Measuring Political Positions from Legislative Speech.” Political Analysis 24 (3): 374–94. https://doi.org/10.1093/pan/mpw017.
 Rheault, Ludovic, and Christopher Cochrane. 2020. “Word Embeddings for the Analysis of Ideological Placement in Parliamentary Corpora.” Political Analysis 28 (1): 112–33. https://doi.org/10.1017/pan.2019.26.
